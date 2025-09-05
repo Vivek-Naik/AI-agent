@@ -3,5 +3,9 @@ wikipedia
 langchain-community
 langchain-openai
 langchain-anthropic
+langchain-google-genai
+google-generativeai
 python-dotenv
 pydantic
+duckduckgo-search
+langchain_google_genai
